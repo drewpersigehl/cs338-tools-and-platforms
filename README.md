@@ -6,3 +6,4 @@
 | sentiment analysis | opera               |    NLTK notebook released     |
 | text-to-speech w/ face animation | Dr. Know It All | in progress |
 | image scraper                 | music video         | to-do        |
+| MoviePy                 | N/A         | to-do        |
