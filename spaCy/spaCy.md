@@ -26,8 +26,10 @@ source ./your_env_name/bin/activate
 pip install spacy
 
 # Install the default English language model
-python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_md
 ```
+
+You can also try the 'en_core_web_sm' and 'en_core_web_lg' models. The small model will be faster, but possibly less accurate. The large model will be slower, but possibly more accurate.
 
 ## How to use spaCy ##
 
@@ -37,7 +39,7 @@ Before doing anything, you'll need to load the English model at the top of your 
 
 ```python
 import spacy
-nlp = spacy.load('en_core_web_sm')
+nlp = spacy.load('en_core_web_md')
 ```
 
 ### Doc Objects ###
@@ -144,4 +146,5 @@ for chunk in example_doc.noun_chunks:
 
 * [Real Python: Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/#what-are-nlp-and-spacy)
 * [Sematext: Enity Extraction with spaCy](https://sematext.com/blog/entity-extraction-with-spacy/)
+* [Python NLP Cookbook: Noun Chunks Preview](https://subscription.packtpub.com/book/data/9781838987312/2/ch02lvl1sec14/extracting-noun-chunks)
 
