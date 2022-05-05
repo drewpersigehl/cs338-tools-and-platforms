@@ -129,6 +129,17 @@ for ent in example_doc.ents:
 
 spaCy has some built-in entity labels, but if you want to create your own labels, you can do so by using a custom model and specifying your own list of entities. You must also provide your own training data so the model can recognize these entities in text. This is detailed further in the [guide](https://sematext.com/blog/entity-extraction-with-spacy/#:~:text=our%20own%20model.-,Training%20a%20new%20model,-To%20train%20a) from Sematext.
 
+### Noun Chunks ###
+
+In spaCy, a doc is automatically divided into noun phrases, or noun chunks. These segments of the text contain nouns plus their accompanying words and descriptors. For example, if the doc contained "The tall man ate a sandwich", the noun chunks would be "tall man" and "sandwich". 
+
+Noun chunks are an attribute of any Doc object. 
+
+```python
+for chunk in example_doc.noun_chunks:
+    print(chunk)
+```
+
 ### Resources ###
 
 * [Real Python: Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/#what-are-nlp-and-spacy)
