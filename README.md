@@ -5,6 +5,5 @@
 | POS tagging, NER, noun chunks | opera               |    spaCy doc released     |
 | sentiment analysis | opera               |    NLTK notebook released     |
 | text-to-speech w/ face animation | Dr. Know It All | in progress |
-| MoviePy                 | N/A         | in progress        |
-| image scraper                 | music video         | to-do        |
+| Remotion                 | N/A         | in progress        |
 
