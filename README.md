@@ -7,5 +7,7 @@ Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdK2WFohVGb
 | POS tagging, NER, noun chunks | spaCy doc released |
 | sentiment analysis | NLTK notebook released     |
 | text-to-speech w/ face animation | in progress |
-| Remotion | in progress |
+| video creation | Remotion doc in progress |
+| image scraping | iCrawler doc to-do |
+
 
