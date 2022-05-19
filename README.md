@@ -1,3 +1,5 @@
+Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdK2WFohVGbN3cPU3IOZXN4nQYnNiqC_d32RrDGbFVzipgWbw/viewform?usp=sf_link)
+
 | item  | status  |
 |-------|---------|
 | GPT2 language models | GPT2 doc released |
