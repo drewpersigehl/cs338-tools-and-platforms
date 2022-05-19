@@ -1,4 +1,4 @@
-Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdK2WFohVGbN3cPU3IOZXN4nQYnNiqC_d32RrDGbFVzipgWbw/viewform?usp=sf_link)
+Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdK2WFohVGbN3cPU3IOZXN4nQYnNiqC_d32RrDGbFVzipgWbw/viewform?usp=sf_link) to let us know which tools you found to be most useful.
 
 | item  | status  |
 |-------|---------|
