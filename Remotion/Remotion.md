@@ -39,7 +39,7 @@ To render an actual .mp4 video file from your Remotion project, simply run the t
 
  The rendering takes a little bit of time, but when it's done your video should be added to the /out directory.
 
- ## Installing FFmpeg (Windows)
+ ### Installing FFmpeg (Windows)
 
  You may need to install FFmpeg before you are able to render an actual .mp4 of your Remotion project. This process is quick and easy.
 
