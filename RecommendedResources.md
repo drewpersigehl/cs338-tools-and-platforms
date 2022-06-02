@@ -4,7 +4,7 @@ This document contains a list of recommended tutorials and resources for many to
 
 ## A-Z List:
 
-### Google CLoud Speech-to-Text
+### Google Cloud Speech-to-Text
 * [Official website with trial and pricing](https://cloud.google.com/speech-to-text)
 * [Quickstart guides from Google](https://cloud.google.com/speech-to-text/docs/quickstart)
 * [In depth walkthrough video of setup and transcription examples](https://www.youtube.com/watch?v=lKra6E_tp5U)
