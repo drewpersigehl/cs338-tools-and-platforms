@@ -6,8 +6,8 @@ Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdK2WFohVGb
 | speech-to-text  | SpeechRecogition doc released |
 | POS tagging, NER, noun chunks | spaCy doc released |
 | sentiment analysis | NLTK notebook released     |
-| text-to-speech w/ face animation | in progress |
-| video creation | Remotion doc in progress |
+| text-to-speech w/ face animation | audio2animation doc released |
+| video creation | Remotion doc released |
 | image scraping | iCrawler doc to-do |
 
 
